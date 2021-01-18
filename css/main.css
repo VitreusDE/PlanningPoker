@@ -1,0 +1,15 @@
+
+.make-game .users{
+    height: 200px;
+    overflow-y: scroll;
+}
+.box{
+  border-radius: 10px;
+  border: 1px solid #28a745;
+}
+
+@media (min-width: 768px) {
+  .w-md-50 {
+    width: 50% !important;
+  }
+}
